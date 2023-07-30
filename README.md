@@ -8,5 +8,5 @@ A online resume hosted on Azure to show cloud engieering skills [youtub.com]()
 - main.js contains visitor counter code.
 
 ```js
-Const
+Const can it 
 ```
